@@ -1,0 +1,34 @@
+.myForm {
+    align-self: auto;
+    text-align: center;
+    padding: 15px;
+    margin: 10%;
+}
+
+.btn-button {
+    background-color: blue;
+    color: white;
+    margin: 2%
+}
+
+.myForm table,
+tr,
+th,
+td {
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: darkgrey;
+    margin: auto;
+}
+
+.myForm table {
+    margin: auto;
+}
+
+.myForm table,
+th {
+    background-color: rgb(65, 124, 5);
+    color: white;
+    border-color: black;
+}
